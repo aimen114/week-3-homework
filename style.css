@@ -108,3 +108,15 @@ p {
   background-color: var(--secondary-color);
   border-radius: 10px;
 }
+@media (max-width: 450px) {
+  .img-hide {
+    display: none;
+  }
+  h1 {
+    font-size: 60px;
+    color: #6c63ff;
+  }
+  .margin-bottom {
+    margin-bottom: 30px;
+  }
+}
