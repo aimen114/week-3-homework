@@ -119,4 +119,9 @@ p {
   .margin-bottom {
     margin-bottom: 30px;
   }
+  .primary-link {
+    display: flex;
+    justify-content: center;
+    margin: 0px 20px auto;
+  }
 }
